@@ -41,7 +41,7 @@ const Home = () => {
           </p>
         </div>
         <div className="inner innerimg" >
-          <img src="./images/IMG1.jpg" className="innerimg" alt="" />
+          <img src="./images/img3.jpg" className="innerimg" alt="" />
         </div>
       </div>
     </React.Fragment>
