@@ -24,7 +24,7 @@ const Education = () => {
       <div className="outer d-flex justify-content-between align-items-center">
         <div className="eduhead">Education</div>
         <div className="d-flex">
-          <Avatar alt="My photo" src="./images/IMG1.jpg" className="me-3" />
+          <Avatar alt="My photo" src="./images/img3.jpg" className="me-3" />
           <h2>Atharva Shinde</h2>
         </div>
       </div>
